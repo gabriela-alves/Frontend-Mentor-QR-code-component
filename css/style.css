@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #d5e1ef;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Signika', sans-serif;
+    width: 1440px;
+    height:800px;
+    padding: 50px 650px;
+}
+
+.container{
+    width:500px;
+    height: 800px;
+    margin: 10vh center;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 30px 25px 100px;
+}
+
+img{
+    width: 450px;
+    height: 454px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+qrcode{
+    width: 450px;
+    height: 454px;
+    border-radius: 15px;
+    margin-bottom:40px;
+}
+
+h1{
+    font-size:32px;
+    font-weight: bold;
+    width: 450px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+p{
+    font-size:24px;
+    color: #898989;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+        
+}
